@@ -1,5 +1,4 @@
-# vue-test
-
+# Client
 ## Project setup
 ```
 npm install
